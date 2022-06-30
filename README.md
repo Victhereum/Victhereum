@@ -44,8 +44,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/victhereum"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/victhereum" /></a><a href="https://ko-fi.com/https://ko-fi.com/victhereum"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/victhereum" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victhereum&show_icons=true&locale=en&layout=compact" alt="victhereum" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victhereum&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="victhereum" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victhereum&show_icons=true&locale=en" alt="victhereum" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victhereum&show_icons=true&theme=synthwave&locale=en" alt="victhereum" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victhereum&" alt="victhereum" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victhereum&theme=dark" alt="victhereum" /></p>
