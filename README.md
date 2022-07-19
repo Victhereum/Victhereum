@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm a an enthusiastic and passionate programmer with over 2 years of experience using various programming languages and web frameworks to build and maintain websites and webapps. Experience in designing and developing sites from concept to roll out. grasp of various programming languages like C#, Python, JavaScript and framework options like ASP.NETCore, Django etc. including development platforms and security requirements. :)
 
 - 📫 How to reach me **tamsvictorisaac@gmail.com/tamsvictorisaac@outlook.com**
 
