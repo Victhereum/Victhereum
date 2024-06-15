@@ -4,13 +4,35 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a an enthusiastic and passionate programmer with over 2 years of experience using various programming languages and web frameworks to build and maintain websites and webapps. Experience in designing and developing sites from concept to roll out. grasp of various programming languages like C#, Python, JavaScript and framework options like ASP.NETCore, Django etc. including development platforms and security requirements. :)
+## 👋 Hi there!
+I'm Victor, a passionate **Software Engineer** specializing in **Python Backend with Django** and **Systems Design**. With 7 years of experience, I've honed my skills in developing scalable, maintainable, and efficient code, delivering innovative solutions across various domains[^1^][1].
 
-- 📫 How to reach me **tamsvictorisaac@gmail.com/tamsvictorisaac@outlook.com**
+### 🌍 Based in Port-Harcourt, Rivers State, Nigeria
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+### 💼 Currently: Senior Software Engineer at Africa Manufacturing Innovation Hub
 
-- My website - https:victhereum.github.io
+### 📈 GitHub Stats:
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-isaac&show_icons=true&theme=radical)
+
+### 🛠️ Skills:
+- **Languages**: Python, C#, JavaScript
+- **Frameworks**: Django, Django Rest Framework
+- **Databases**: PostgreSQL, MySQL
+- **Tools**: Docker, Git, Agile Methodologies
+- **Areas of Expertise**: Microservices, RESTful APIs, E-commerce, Cryptocurrency Platforms
+
+### 🚀 Projects:
+- **Crypto Command Center**: Aggregates cryptocurrencies from various exchanges into one platform for easy management[^2^][2].
+- **IoT Backend Service**: Enables communication between devices for remote control and monitoring[^3^][3].
+- **E-commerce Platform**: Utilizes Monero Cryptocurrency for secure transactions with escrow and conflict resolution features[^4^][4].
+
+### 📫 How to reach me:
+- **LinkedIn**: [Victor Isaac](https://www.linkedin.com/in/victor-isaac)
+- **Portfolio**: [My Portfolio](https:victhereum.github.io)
+- **Email**: [Email(tamsvictorisaac@gmail.com/tamsvictorisaac@outlook.com)]
+
+> "I am committed to driving business growth through innovative solutions and dedicated to delivering high-quality work that meets the needs of my clients."[^5^][5]
+
 
 ## 🚀 Languages and Tools:
 
@@ -36,11 +58,6 @@ I'm a an enthusiastic and passionate programmer with over 2 years of experience 
 <!-- ## ✨ Top Languages Card -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victhereum&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<br/>
-<br/>
-
-[![Sachin's github activity graph](https://activity-graph.herokuapp.com/graph?username=victhereum&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
